@@ -1,3 +1,6 @@
+/**
+ * A made a comment so  I could make a committ
+ */
 function plotScore () {
     scoreMod25 = score % 25
     if (scoreMod25 <= 5) {
